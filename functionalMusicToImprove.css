@@ -1,0 +1,27 @@
+body{
+   margin:0%; 
+   font-family: Arial;
+}
+
+.section-1 {
+background-color: blue;
+color: white;
+display: flex;
+align-items: center;
+padding: 0px;
+}
+.headline-1 {
+    font-size: 40;
+}
+input[type = 'botton']
+{
+    padding: 5px 2px;
+    font-weight: bold;
+    padding: 0px;
+    border-radius: 5px; 
+}
+
+.section-2 {
+background-color: blue;
+color: white;
+}

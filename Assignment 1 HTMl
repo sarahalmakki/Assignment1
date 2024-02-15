@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel= "stylesheet" href="functionalMusicToImprove.css" type="txt/css"/>
+</head>
+
+<body>
+    <div class="section-1">
+        <div style="flex-grow: 1 ;">
+            <img src="./Images/logo.png" width=100px />
+        </div>
+        <div>
+            <a href="">Sign in</a>
+        </div>
+        <div>
+            <inpt type="button" value="Try for free" style="background-color :yellow; border-radius: 5px;" />
+        </div>
+    </div>
+    <div class="section-1">
+        <div>
+            <p>Function Music To Imrove</p>
+            <p class="headline-1"> Focus in 15 Mintues </p>
+            <p>Our science-first approach creates music that sounds
+                different-and affects your brain differently-than any other music</p>
+        </div>
+        <div>
+            <img src="Images/picture-1 (5).gif" />
+        </div>
+        <div class="section-1">
+            <img src="Images/clout (1).png"/>
+            <input type="button" value=" Try free sessions" style="background-color: orange;"/>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>
